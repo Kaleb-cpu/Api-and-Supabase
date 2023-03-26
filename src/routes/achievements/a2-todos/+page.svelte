@@ -5,7 +5,7 @@
 <h1>Todo List</h1>
 <ul>
   {#each data.todos as todo}
-  <a href="/achievements/todos/{todo.id}">
+  <a href="/achievements/a2-todos/{todo.id}">
     <article>
       <h2>{todo.id}</h2>
       <h3>{todo.title}</h3>

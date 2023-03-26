@@ -1,5 +1,5 @@
 <li><a href="./achievements/a1-queenArianna">Achievement-1: queen Arianna</a></li>
-<li><a href="./achievements/todos">Achievement-2: Todos</a></li>
+<li><a href="./achievements/a2-todos">Achievement-2: Todos</a></li>
 
 <style>
   li {

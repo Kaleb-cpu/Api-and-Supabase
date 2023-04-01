@@ -2,7 +2,7 @@
   export let data;
 </script>
 
-<h1>Magic Items</h1>
+<h1>Customers</h1>
 {#if data.customer}
 <ul>
   {#each data.customer as item}

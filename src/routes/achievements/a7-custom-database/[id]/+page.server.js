@@ -6,6 +6,6 @@ export async function load({ params }) {
 	console.log(error);
 
 	return {
-		customer: data ?? ['error']
+		customer: data ?? []
 	};
 }
